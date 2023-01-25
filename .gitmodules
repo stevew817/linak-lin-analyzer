@@ -1,0 +1,3 @@
+[submodule "lowlevel_analyzer"]
+	path = lowlevel_analyzer
+	url = git@github.com:stevew817/lin-analyzer.git

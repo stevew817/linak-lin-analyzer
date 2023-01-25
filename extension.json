@@ -1,0 +1,13 @@
+{
+  "name": "LINAK desk",
+  "apiVersion": "1.0.0",
+  "author": "Steven Cooreman",
+  "version": "0.0.1",
+  "description": "LIN-bus communication between LINAK desk and controller according to US 41-07-002",
+  "extensions": {
+    "LINAK desk": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
